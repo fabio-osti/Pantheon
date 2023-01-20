@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageId>VulcanusInstrumenta.Pantheon</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>fabio-osti</Authors>
+    <PackageDescription>General helpers.</PackageDescription>
+    <RepositoryUrl>https://github.com/fabio-osti/Pantheon.git</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
