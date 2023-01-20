@@ -1,9 +1,9 @@
 namespace OmnisExtensionum.Wrappers;
 
 /// <summary>
-/// 	Represents a wrapper that may or may not
-///		contain a <typeparamref name="TValue"/>
-///		result. 	
+/// 	Represents a result that may or may not
+///		have completed successfully with a
+///		<typeparamref name="TValue"/>.
 /// </summary>
 /// 
 /// <typeparam name="TValue">
@@ -68,7 +68,8 @@ public struct Result<TValue>
 }
 
 /// <summary>
-/// 	Represents if a result was completed successfully. 	
+/// 	Represents a result that may or may not
+///		have completed successfully with.
 /// </summary>
 public struct Result
 {
