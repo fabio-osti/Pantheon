@@ -34,7 +34,7 @@ public static class ObjectExtensions
 	/// </summary>
 	/// 
 	/// <param name="obj">
-	/// 	Object to that will have its members checked.
+	/// 	Object that will have its members checked.
 	/// </param>
 	/// 
 	/// <param name="paramName">
@@ -72,7 +72,7 @@ public static class ObjectExtensions
 	/// </summary>
 	/// 
 	/// <param name="obj">
-	/// 	Object to that will have its members checked.
+	/// 	Object that will have its members checked.
 	/// </param>
 	/// 
 	/// <param name="exceptionBuilder">
